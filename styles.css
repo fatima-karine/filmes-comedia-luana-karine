@@ -2,8 +2,7 @@ body{
 color:bisque;
 background: black;
 margin: 0px;
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
+
 
 .sour-gummy-<uniquifier> {
   font-family: "Sour Gummy", sans-serif;
